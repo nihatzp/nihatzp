@@ -1,8 +1,8 @@
 - 👋 Merhaba Ben nihatzp
 - 👀 Ben Web Ve Android geliştiricisiyim
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Kod Yazmayı çok severim
+- 💞️ Her gün bişeyler araştırıp kendimi geliştiriyorum
+- 📫 Hakkımda Daha fazla bilgi edinmek istersen Web sitemi ziyaret edebilirsin.
 
 <!---
 nihatzp/nihatzp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
