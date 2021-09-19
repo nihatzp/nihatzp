@@ -3,30 +3,12 @@
 <br/>
 
 ### 🔭 Benim Hakkımda
-- :computer:İstanbul Üniversitesi "Yönetim Bilişim Sistemleri" bölümü 2. sınıf öğrencisiyim. 
-- :computer:Atatürk Üniversitesi "Bilgisayar Programcılığı" bölümü 2. sınıf öğrencisiyim.
-- :computer:Anadolu Üniversitesi "Web Tasarımı ve Kodlama" bölümünü başarı ile tamamladım.
-- :computer:Ankara Hacı Bayram Veli Üniversitesi "Turizm İşletmeciliği" bölümü 4.snıf öğrencisiyim.
-- :computer:DSC Ankara Hacı Bayram Veli Üniversitesi Core Team ekibinde yer almaktayım. 
-- :computer:Full Stack Developer ve Graphic Design olmak için çabalıyorum. 
-- :computer:Kendimi her alanda geliştirmeye özen gösteriyorum.
-- :computer:Yazılım ve Tasarım üzerine youtube ve udemy platformları için eğitim setleri hazırlamayı hedefliyorum.
+- :computer:Küçüklüğü bilgisayarla geçen eğlenceli teknoloji bağımlısı araştırmayı çok seven bi çok sistem proje tamamlayan sıradışı şeyler yapma peşinde kendi halinde ve zp coder ekibi kurarak kullanıcılara profesyonel hizmetler veren alışılmışın dışında sıradışı düşüncelere sahip sıradışı bir insan.
 
-
-
-### 🎧 Hobilerim!
-- 🎧 Eğlenceli gerçek: Müzik dinlemeyi seviyorum.
-- 🎧 Bol bol Fantastik ve Bilim Kurgu temalı kitap okumayı seviyorum.
-- 🎧 Sabah yürüyüşü yapmayı severim.
-- 🎧 Yüzme sporu vazgeçilmez eğlencelerimden biri.
-- 🎧 Marvel/DC evrenlerinin hastasıyım bu yüzden çizgi roman okumayı seviyorum. Hayal güvümün gelişmesini sağlıyor.
-- 🎧 Resim yapmaktan büyük keyif alıyorum. Özellikle karakter tasarımı üzerine çalışmaktan.
-- 🎧 Boş zamanlarımda film ve dizi izlemeyi severim. Favori filmim "Lord of the Rings" favori dizilerim ise; "Mr.Robot ve Supernatural" dır.
-
-### 📫 Bana Ulaşmak İsterseniz!
-- 📫 Bana ulaşmak isterseniz **nihatzp@gmail.com** adresini kullanabilirsiniz. 
-- 📫 Sosyal Medya üzerinden bana ulaşmak isterseniz **instagram.com/nihatzp** adresini kullanabilirsiniz.
-- 📫 Web üzerinden bana ulaşmak isterseniz **nihatmedya.com** web sitemide kullanabilirsiniz.
+### 📫 Bana ulaşmak için!
+- 📫 mail adresim **nihatzp@gmail.com** 
+- 📫 Sosyal Medya  **instagram.com/nihatzp** 
+- 📫 Web adresim **nihatmedya.com**
 
 
 
