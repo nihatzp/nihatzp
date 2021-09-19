@@ -1,7 +1,9 @@
 <h1 align="center">Merhaba 👋, Ben nihatzp </h1>
  <a target="_blank"><img align="left" height="200" width="200" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/31/ea/19/31ea19746dd0bcbee7a971b62a268d48.gif"></a>
 <br/>
-
+<br>
+<br>
+<br>
 ### 🔭 Benim Hakkımda
 - :computer:Küçüklüğü bilgisayarla geçen eğlenceli teknoloji bağımlısı araştırmayı çok seven bi çok sistem proje tamamlayan sıradışı şeyler yapma peşinde kendi halinde ve zp coder ekibi kurarak kullanıcılara profesyonel hizmetler veren alışılmışın dışında sıradışı düşüncelere sahip sıradışı bir insan.
 
