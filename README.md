@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba  ben nihatzp </h1>
+<h1 align="center">Hello iam nihatzp </h1>
  <a target="_blank"><img align="left" height="250" width="550" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/31/ea/19/31ea19746dd0bcbee7a971b62a268d48.gif"></a>
 <br/>
 
