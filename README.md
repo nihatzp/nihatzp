@@ -10,7 +10,7 @@
 ### 📫 Bana ulaşmak için!
 - 📫 mail adresim **nihatzp@gmail.com** 
 - 📫 Sosyal Medya  **instagram.com/nihatzp** 
-- 📫 Web adresim **nihatmedya.com**
+- 📫 Web adresim **nihatzp.com**
 
 
 
